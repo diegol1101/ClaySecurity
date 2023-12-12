@@ -1,0 +1,15 @@
+C:\ClaySecurity\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\ClaySecurity\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\ClaySecurity\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\ClaySecurity\Persistence\bin\Debug\net7.0\Domain.dll
+C:\ClaySecurity\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\ClaySecurity\Persistence\obj\Debug\net7.0\ref\Persistence.dll

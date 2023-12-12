@@ -1,0 +1,17 @@
+C:\ClaySecurity\Application\bin\Debug\net7.0\Application.deps.json
+C:\ClaySecurity\Application\bin\Debug\net7.0\Application.dll
+C:\ClaySecurity\Application\bin\Debug\net7.0\Application.pdb
+C:\ClaySecurity\Application\bin\Debug\net7.0\Domain.dll
+C:\ClaySecurity\Application\bin\Debug\net7.0\Persistence.dll
+C:\ClaySecurity\Application\bin\Debug\net7.0\Domain.pdb
+C:\ClaySecurity\Application\bin\Debug\net7.0\Persistence.pdb
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.dll
+C:\ClaySecurity\Application\obj\Debug\net7.0\refint\Application.dll
+C:\ClaySecurity\Application\obj\Debug\net7.0\Application.pdb
+C:\ClaySecurity\Application\obj\Debug\net7.0\ref\Application.dll
